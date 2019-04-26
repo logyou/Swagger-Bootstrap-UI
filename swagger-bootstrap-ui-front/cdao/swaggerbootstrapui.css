@@ -407,7 +407,7 @@ code {
     position: absolute;
     top: 11px;
     right: 0;
-    z-index: 2;
+    /*z-index: 2;*/
     height: 30px;
 }
 /*.bar8 input:focus {
